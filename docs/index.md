@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to the VRARA WebXR Committee
 
-You can use the [editor on GitHub](https://github.com/vrara/webxr/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- [Code of Conduct](https://github.com/vrara/webxr/blob/master/CODE-OF-CONDUCT.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This committee will
 
-### Markdown
+- Evangelize WebXR
+- Evaluate tools and platforms
+- Identify WebXR business use-cases
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Co-Chairs
 
-```markdown
-Syntax highlighted code block
+- Kirby Shabaga, Tank and Dozer, LLC.
+- <yourName>, <yourCompany>
 
-# Header 1
-## Header 2
-### Header 3
+#### Support or Contact
 
-- Bulleted
-- List
+[contact kirby](mailto://kirby@thevrara) and he'll help you sort it out.
 
-1. Numbered
-2. List
+### Meetings
 
-**Bold** and _Italic_ and `Code` text
+- [2020.09.08](meeting/2020.09.08) - HandyJS
+- [2020.08.04](meeting/2020.08.04) - Intro meeting
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrara/webxr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
