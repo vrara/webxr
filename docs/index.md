@@ -19,6 +19,6 @@
 
 ### Meetings
 
-- [2020.09.08](meeting/2020.09.08) - HandyJS
-- [2020.08.04](meeting/2020.08.04) - Intro meeting
+- [2020.09.08](meetings/2020.09.08-HandyJS.md) - HandyJS
+- [2020.08.04](meetings/2020.08.04-Intro.md) - Intro meeting
 
